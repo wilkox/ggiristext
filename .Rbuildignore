@@ -1,1 +1,4 @@
 ^README\.Rmd$
+^review$
+^CLAUDE\.md$
+^\.claude$
